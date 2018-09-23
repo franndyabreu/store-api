@@ -78,7 +78,7 @@ All responses will have the form
 }
 ```
 
-##Lookup orders for a specific store
+## Lookup orders for a specific store
 
 **ROUTE**
 
@@ -89,7 +89,7 @@ All responses will have the form
 -`404 Not found` if the store id does not exist.
 -`200 Ok` on success.
 
-##Delete an existing order
+## Delete an existing order
 
 **ROUTE**
 
