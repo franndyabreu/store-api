@@ -129,6 +129,10 @@ All responses will have the form
 **Arguments**
 
 - `"id":int` Unique identifier for this store.
+- `"product_id":int` Unique identifier for the product.
+- `"product_name":string` Name of the product.
+- `"product_price":float` Price of the product.
+- `"quantity":int` Amount.
 
 **Response**
 - `201 Content Created` if the product exists, the quantity will be updated. 
