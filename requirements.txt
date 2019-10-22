@@ -9,4 +9,4 @@ Jinja2==2.10
 MarkupSafe==1.0
 psycopg2==2.7.5
 SQLAlchemy==1.2.11
-Werkzeug==0.14.1
+Werkzeug==0.15.3
