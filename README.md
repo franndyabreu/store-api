@@ -1,4 +1,4 @@
-# Shopify Challenge Question API
+# Shopify API Challenge Question
 
 ## Usage
 
